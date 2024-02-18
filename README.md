@@ -34,7 +34,3 @@ This project aims to predict loan repayment patterns based on data obtained from
 
 5. **Recommendations:**
    - Provide actionable recommendations for mitigating risks or enhancing the likelihood of loan repayment based on the analysis results.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
