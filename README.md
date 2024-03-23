@@ -1,4 +1,4 @@
-# Predictive Analysis of Loan Repayment Patterns Using Retail Store Data
+# Find the perfect location for your retail store using machine learning pattern
 
 ## Overview
 
